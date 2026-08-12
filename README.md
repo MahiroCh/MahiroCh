@@ -4,7 +4,7 @@ My name is Georgii, I am HSE FCS Software Engineering '28 student. Specialise in
 
 **Stack / Hard skills:**
 
-- Favourite programming languages: C, Rust, C++, HTML, JavaScript.
+- Favourite programming languages: C, Rust, C++, Java, HTML, JavaScript.
 - Technologies: Docker, Git, Data Bases (PostrgreSQL, SQLite), Cmake.
 - Favourite text/code editors: VS Code, Neovim, Obsidian.
 - Preferred OS: Linux flavors (Ubuntu/Debian/Arch).
