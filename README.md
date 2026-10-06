@@ -4,18 +4,18 @@ My name is Georgii, I am HSE FCS Software Engineering '28 student. Specialize in
 
 **Stack / Hard skills:**
 
-- Programming languages: C, C++, Rust. Additionally: Java, HTML, JavaScript.
-- Technologies: Git, Docker, databases (PostrgreSQL, SQLite), Cmake.
+- Programming languages: *C, C++, Rust.* Additionally: *Java, HTML, JavaScript.*
+- Technologies: *Git, Docker, databases (PostrgreSQL, SQLite), Cmake.*
 - Other skills:
-	- Linux;
-	- TCP/IP stack, Wireshark;
-	- documentation writing (Russian state standard / free style);
-	- probability theory and mathematical statistics,
-	- English language (fluent listening, reading, writing),
-	- preferred code editor: VS Code and nvim.
+	- *Linux;*
+	- *TCP/IP stack, Wireshark;*
+	- *documentation writing (Russian state standard / free style);*
+	- *probability theory and mathematical statistics;*
+	- *preferred code editor: VS Code and nvim.*
+	- *English language (fluent listening, reading, writing);*
 
 **Soft skills:**
 
-- Structural thinking.
-- Attention to detail.
+- Structural thinking;
+- Attention to detail;
 - Ability to dive deep into any topic in as little time as possible.
