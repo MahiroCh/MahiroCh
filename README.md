@@ -1,22 +1,21 @@
 # Hello!
 
-My name is Georgii, I am HSE FCS Software Engineering '28 student. I specialize in system programming and network science. Nevertheless, there are no CS skills that I cannot acquire and no tasks that I cannot do: I am fond of learning new things.
+My name is Georgii, I am HSE FCS Software Engineering '28 student. Specialize in system programming. I am fond of learning and acquiring new skills. See also my [CV (ru, eng)](https://docs.google.com/document/d/1v5ghreIrEkZqOviy0uWZyimojknI9kFw5ajNFG_6mNk/edit?usp=sharing).
 
 **Stack / Hard skills:**
 
-- Programming languages (in order of mastery level): C, C++, Rust, Java, HTML, JavaScript.
+- Programming languages: C, C++, Rust. Additionally: Java, HTML, JavaScript.
 - Technologies: Git, Docker, databases (PostrgreSQL, SQLite), Cmake.
 - Other skills: 
-	- Linux (Debian/Ubuntu);
+	- Linux;
 	- TCP/IP stack, Wireshark;
 	- documentation writing (Russian state standard / free style);
 	- probability theory and mathematical statistics,
-	- preferred code editor: VS Code and sometimes NeoVim.
+  - English language (fluent listening, reading, writing),
+	- preferred code editor: VS Code and nvim.
 
 **Soft skills:**
 
 - Structural thinking.
-- Ability to dive deep into any technical topic in as little time as possible.
-- Critical analysis of code/project.
-
-**Hobbies:** drawing, running and gymless fitness.
+- Attention to detail.
+- Ability to dive deep into any topic in as little time as possible.
